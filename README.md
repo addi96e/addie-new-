@@ -1,2 +1,2 @@
-# addie-new-
-for learning
+this is new  repository
+i love it 
